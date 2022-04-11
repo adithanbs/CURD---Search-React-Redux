@@ -1,0 +1,17 @@
+.navbar-light .navbar-brand {
+    color: white !important;
+    height: 51px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-btn{
+    width: 150px !important;
+}
+.form-control {
+    height: 50px !important;
+}
+.search_btn:focus-visible{
+   outline: 1px #0d6efd !important;
+}
